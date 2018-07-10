@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Resume ReDesign</string>
+    <string name="PREF_FILE">APP_PREF_FILE</string>
+</resources>

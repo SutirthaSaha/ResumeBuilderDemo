@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Open Resume"
+        android:id="@+id/openResume"
+        android:icon="@drawable/note"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:title="Edit Resume"
+        android:id="@+id/editResume"
+        android:icon="@drawable/note"
+        app:showAsAction="never" ></item>
+    <item
+        android:title="Delete Profile"
+        android:id="@+id/delProfile"
+        app:showAsAction="never"
+        android:icon="@drawable/deleteblack"
+        ></item>
+</menu>
